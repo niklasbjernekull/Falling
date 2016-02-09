@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Code\\Falling\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\monkeyball.png",
+        "source": "D:\\Code\\Falling\\res\\drawable-hdpi\\monkeyball.png"
+    },
+    {
+        "merged": "D:\\Code\\Falling\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\birdball.png",
+        "source": "D:\\Code\\Falling\\res\\drawable-hdpi\\birdball.png"
+    },
+    {
+        "merged": "D:\\Code\\Falling\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Code\\Falling\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

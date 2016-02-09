@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="top"
+    >
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Party?"
+            android:gravity="center"
+            android:layout_marginTop="100dp"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:textColor="#049"
+            android:background="#7fff"
+            />
+   
+    <Button
+        android:text="Start"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:onClick="startFallingActivity"
+        />
+
+</LinearLayout>
